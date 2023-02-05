@@ -27,7 +27,7 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 4. Adaptor for power supply to Raspberry pi.
 
 ## chronological order of this project
-### first and formost install Raspbian OS in the SD Card And plug it to the Raspberry pi and then follow these steps.
+### first and foremost install Raspbian OS in the SD Card And plug it to the Raspberry pi and then follow these steps.
 1. Installing Apache and PHP
 2. Setting up a MySQL Database and User
 3. Downloading Nextcloud
