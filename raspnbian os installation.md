@@ -1,4 +1,4 @@
-## we need to take on micro SD card and by using an Card reader or adapter we connect it to our laptop in order to install the raspbian OS in it.
+## we need to take one micro SD card and by using an Card reader or an adapter we connect it to our laptop in order to install the raspbian OS in it.
 
 ### Steps need to follow
 
