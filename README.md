@@ -15,13 +15,13 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 
 ## Software Requirements
 
-1.NextCloud
-2.Raspbian OS
-3.Apache
+1. NextCloud
+2. Raspbian OS
+3. Apache
 
 ## Hardware Requirements
 
-1.Raspberry pi model 3B+.
-2.Laptop with min. of 4 GB RAM.
-3.Micro SD card in which Raspbian OS installed in it.
-4.Adaptor for power supply to Raspberry pi.
+1. Raspberry pi model 3B+.
+2. Laptop with min. of 4 GB RAM.
+3. Micro SD card in which Raspbian OS installed in it.
+4. Adaptor for power supply to Raspberry pi.
