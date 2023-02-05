@@ -4,12 +4,12 @@
 
 ### 1. To get started let’s first update our package repositories with the following command:
 
-   --> sudo apt update
-       sudo apt upgrade
+       --> sudo apt update
+           sudo apt upgrade
 
 ### 2. With that done, let’s now install apache with the following command:
 
-   --> sudo apt install apache2
+       --> sudo apt install apache2
 
 ### 4. With Apache2 now installed onto the Raspberry Pi, we just need to install PHP and several of its packages.
 
