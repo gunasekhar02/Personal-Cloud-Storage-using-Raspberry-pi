@@ -25,3 +25,13 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 2. Laptop with min. of 4 GB RAM.
 3. Micro SD card in which Raspbian OS installed in it.
 4. Adaptor for power supply to Raspberry pi.
+
+## chronological order of this project
+### first and formost install Raspbian OS in the SD Card And plug it to the Raspberry pi and then follow these steps.
+1. Installing Apache and PHP
+2. Setting up a MySQL Database and User
+3. Downloading Nextcloud
+4. Configuring Apache for Nextcloud
+5. Nextcloud Initial Setup
+6. Moving Nextcloud’s Data Folder
+7. Setting up SSL for Nextcloud
