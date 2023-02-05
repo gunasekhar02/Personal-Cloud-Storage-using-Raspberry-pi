@@ -20,10 +20,12 @@
 #### Step 3: Burn the Raspberry Pi OS Image to the SD Card.
        --> Click the "Choose OS" button, and select one of the available operating systems.
            Select  the SD Card.
-           Use some advanced setting for enabling wifi settings for our raspberry pi by ising the command ctrl+shift+x.
+           Use some advanced setting for enabling wifi settings for our raspberry pi by using the command "ctrl+shift+x".
            and finally write the os to the SD card and eject it.
 
 #### Step 4: put the SD card that is ejected in raspberry pi sd card slot.
 
 #### Step 5: finally give  the power supply to the raspberry pi.
+
+#### follow the next steps which were in installation and nextcloud folders.
 
