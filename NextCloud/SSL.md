@@ -41,11 +41,13 @@ change
 find> 
 
 "SSLCertificateFile /etc/ssl/certs/ssl-cert-snakeoil.pem
+
 SSLCertificateKeyFile /etc/ssl/private/ssl-cert-snakeoil.key"
 
 replace with>
 
 "SSLCertificateFile /etc/apache2/ssl/apache.crt
+
 SSLCertificateKeyFile /etc/apache2/ssl/apache.key"
 
 
