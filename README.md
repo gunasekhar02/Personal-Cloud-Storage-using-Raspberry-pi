@@ -18,6 +18,8 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 1. NextCloud
 2. Raspbian OS
 3. Apache
+4. Php
+5. MySQL
 
 ## Hardware Requirements
 
